@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author IIPL
+ *
+ */
+module amazonmini {
+}
